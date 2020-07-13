@@ -1,0 +1,16 @@
+html,
+body{
+  height: 100%;
+  margin: 0;
+  font-family:'KiteOne-Regular', Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke: 1px rgba(87, 87, 87, 0.47);
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+
+@font-face {
+  font-family: 'KiteOne-Regular';
+  src:local('KiteOne-Regular'), url('KiteOne-Regular.ttf') format('truetype');
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Atousa Dehsarvi",
+  "subtitle": " Front-End Dev | Amateur Cartoonist",
+  "links": {
+    "github": "https://github.com/Dehsarvi",
+    "stackoverflow": "https://meta.stackoverflow.com/users/6790784/atousa-dehsarvi",
+    "linkedin": "https://www.linkedin.com/in/atousa-dehsarvi/",
+    "twitter": "https://twitter.com/Dehsarvi",
+    "instagram":"https://instagram.com/atousa.dehsarvi?igshid=1kfwm46361pqf"
+  },
+  "sections": [
+
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging process. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including React, JavaScript, CSS, PHP, Laravel, and Microsoft SQL Server. Able to effectively self-manage during independent projects, as well as collaborate in a team setting."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/js.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/laravel.png",
+            "title": "Laravel"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/mss.png",
+            "title": "SQL Server"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html-5.png",
+            "title": "HTML 5"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+p{
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.paragraph{
+    font-size: 28px;
+    text-shadow: 2px 2px 4px #000000;
+}
+h1{
+    padding-top: 2cm;
+    color: #fdfd96;
+
+}
+.second{
+
+    padding-top: 7cm;
+    padding-bottom: 5cm;
+}

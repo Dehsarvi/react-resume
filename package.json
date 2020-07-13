@@ -1,0 +1,54 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+//  "homepage": "",
+  "dependencies": {
+    "@angular/cdk": "^9.2.4",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.0",
+    "emotion-theming": "^10.0.27",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-awesome-button": "^6.5.1",
+    "react-bootstrap": "^1.2.1",
+    "react-count": "^0.2.4",
+    "react-dom": "^16.13.1",
+    "react-native-really-awesome-button": "^1.6.0",
+    "react-scripts": "3.4.1",
+    "react-snowflakes": "^1.0.0",
+    "react-snowstorm": "0.0.3",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+//   git push -u origin master
+    //
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.7",
+    "react-social-icons": "^4.1.0"
+  }
+}
