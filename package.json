@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-//  "homepage": "",
+  "homepage": "https://github.com/Dehsarvi/react-resume.git",
   "dependencies": {
     "@angular/cdk": "^9.2.4",
     "@emotion/core": "^10.0.28",
@@ -25,8 +25,8 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-//   git push -u origin master
-    //
+    "predeploy":"npm run build",
+    "deploy":"gh-pages-deploy",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
